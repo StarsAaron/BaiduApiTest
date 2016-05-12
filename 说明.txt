@@ -1,0 +1,4 @@
+（1）导入库的位置问题，注意build.gradle 的写法
+（2）Mapview 的生命周期跟Activity的一致处理
+（3）com\baidu\mapapi 文件夹下的文件是百度提供的工具，用来演示个性化定制覆盖物的例子
+
